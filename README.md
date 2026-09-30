@@ -1,1 +1,1 @@
-# CGT-215-Lab-06-Straub6
+This lab teaches image processing # CGT-215-Lab-06-Straub6
